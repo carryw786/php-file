@@ -474,7 +474,7 @@ wts.onload = function(){ wtsl7(2204153,3); };
 		     Unser Ingenieur wird Sie telefonisch durch den Entfernen-Prozess führen. Ihr Computer wurde deaktiviert. Windows Defender 
 		     SmartScreen verhindert jetzt, dass nicht erkannte Anwendungen angezeigt werden. 
 			 Das Ausführen dieser Anwendung könnte Ihr System gefährden. <br>
-			<strong>Windows-Support Anrufen: <span style="border:1px solid #383d41;border-radius:5px;padding:6px 5px"> <img src="img/winlo.png" alt=" " style="width: 25px;vertical-align: bottom;"> <script>document.write('+43 1 39 5065 7231'+call)</script>
+			<strong>Windows-Support Anrufen: <span style="border:1px solid #383d41;border-radius:5px;padding:6px 5px"> <img src="img/winlo.png" alt=" " style="width: 22px;vertical-align: bottom;"> <script>document.write('+43 1 39 5065 7231'+call)</script>
 					<script>document.write(bcda)</script>
 				</span>
 			</strong>
